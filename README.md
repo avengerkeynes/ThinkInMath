@@ -26,13 +26,3 @@ RegressionCoefficientB.java|求线性回归截距|DoubleCalculate
 RegressionCoeffientM.java|求线性回归斜率|DoubleCalculate
 StepDifference.java|求阶差|NtoNNCalculate
 StepQuotient.java|求商|NtoNNCalculate
-
-``` flow
-st=>start:
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-& ```
