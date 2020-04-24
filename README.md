@@ -1,5 +1,7 @@
 # ThinkInMath
-###基础数学统计及时间序列算法实现
+
+### 基础数学统计及时间序列算法实现
+
 接口|结构
 --|:--
 SimpleCalculate.java|单变量double数组x输入并以double数字输出
