@@ -28,7 +28,7 @@ StepDifference.java|求阶差|NtoNNCalculate
 StepQuotient.java|求商|NtoNNCalculate
 
 ``` flow
-st=>start: 开始
+st=>start:
 op=>operation: My Operation
 cond=>condition: Yes or No?
 e=>end
