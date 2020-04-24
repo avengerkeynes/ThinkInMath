@@ -27,7 +27,7 @@ RegressionCoeffientM.java|求线性回归斜率|DoubleCalculate
 StepDifference.java|求阶差|NtoNNCalculate
 StepQuotient.java|求商|NtoNNCalculate
 
-```flow
+``` flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -35,4 +35,4 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+```
